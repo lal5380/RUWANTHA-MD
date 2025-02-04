@@ -27,6 +27,7 @@
     "api-dylux":"latest",
     "ytdl-core":"4.11.5",
     "g-i-s":"latest",
+    "cheerio":"^1.0.0",
     "wa-sticker-formatter":"4.4.4"
   }
 }

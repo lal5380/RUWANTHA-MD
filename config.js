@@ -10,6 +10,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/R2jMmyb/IMG-20241229-WA000
 ALIVE_MSG: process.env.ALIVE_IMG || "*HEY DEAR* ${pushname}\n *I Am AlIVE NOW....! 🖐🏻*",
 SUDO_NB: process.env.SUDO_NB || "94788231166",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "public",
+ANTI_DELETE: process.env.ANTI_DELETE || "true",
+MODE: process.env.MODE || "public"
 };
 
